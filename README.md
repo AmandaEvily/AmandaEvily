@@ -1,4 +1,5 @@
 ## Olá, eu sou a Amanda!
+### Sou estudante de design digital. 
 
 <!--
 **AmandaEvily/AmandaEvily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
